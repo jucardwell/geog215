@@ -14,7 +14,7 @@ Markdown document) that you can extract census data using the tigris and
 tidycensus packages,and display/manipulate each data layer.
 
 ------------------------------------------------------------------------
-
+# [**Download the help document here**](https://drive.google.com/file/d/1w-js1aoJ7AbXOD1XyXhQSqwQ1nICrFcu/view?usp=sharing)
 ### Set Up
 
 On your computer, set up a folder structure for your final project if
