@@ -16,13 +16,14 @@ div.blue { background-color:#e0f0ff; padding: 10px 10px 3px 10px;}
 </style>
 
 ------------------------------------------------------------------------
+# Final Project Task 1
 
 For this assignment you are required to demonstrate (within an R
 Markdown document) that you can extract census data using the tigris and
 tidycensus packages,and display/manipulate each data layer.
 
 ------------------------------------------------------------------------
-# [**Download the help document here**](https://drive.google.com/file/d/1w-js1aoJ7AbXOD1XyXhQSqwQ1nICrFcu/view?usp=sharing)
+# [**Download the Help .Rmd Here**](https://drive.google.com/file/d/1w-js1aoJ7AbXOD1XyXhQSqwQ1nICrFcu/view?usp=sharing)
 ### Set Up
 
 On your computer, set up a folder structure for your final project if
