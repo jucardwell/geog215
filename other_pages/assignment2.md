@@ -18,6 +18,7 @@ tmap package to create static and interactive maps. The bus data is from
 <https://opendata-townofchapelhill.hub.arcgis.com/> and the Carrboro
 tree data is from <https://www.townofcarrboro.org/145/Download-Data>
 
+[**Download the Data Here**](https://drive.google.com/drive/folders/1eviZk_uSUp8A53Eer5tolhVZIs2EnbGK?usp=sharing)
 ------------------------------------------------------------------------
 
 ### Create a new R Markdown document
