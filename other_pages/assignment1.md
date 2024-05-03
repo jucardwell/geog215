@@ -12,6 +12,7 @@ div.blue { background-color:#e0f0ff; padding: 10px 10px 3px 10px;}
 </style>
 
 ------------------------------------------------------------------------
+# Assignment 1
 
 In this assignment, you will read in a file, practice some basic data
 manipulation, and make a graph. You will be performing all your work
