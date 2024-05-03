@@ -13,7 +13,7 @@ div.blue { background-color:#e0f0ff; padding: 10px 10px 3px 10px;}
 </style>
 
 ------------------------------------------------------------------------
-
+# Assignment 2
 In this assignment, you will read in three spatial datasets and use the
 tmap package to create static and interactive maps. The bus data is from
 <https://opendata-townofchapelhill.hub.arcgis.com/> and the Carrboro
