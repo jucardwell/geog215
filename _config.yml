@@ -6,6 +6,8 @@ url: https://jucardwell.github.io/geog215
 
 search_enabled: false
 
+nav_enabled: false
+
 defaults:
   -
     scope:
