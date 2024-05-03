@@ -5,7 +5,7 @@ nav_order: 4
 ---
 # GEOG 215: Introduction to Spatial Data Science: Summer 2024 Session I
 
-Abbreviated Syllabus [Download full syllabus here](https://drive.google.com/file/d/1PahFBApqTElxpHawRGqzP8ACuXOME-MJ/view?usp=sharing)
+Abbreviated Syllabus [Download full syllabus here](https://drive.google.com/uc?export=download&id=1PahFBApqTElxpHawRGqzP8ACuXOME-MJ)
 
 
 ### Course Information
