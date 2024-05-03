@@ -22,7 +22,6 @@ North Carolina Office of State Budget and Management
 (<https://www.osbm.nc.gov/facts-figures/population-demographics/state-demographer/countystate-population-projections/population-overview>)
 
 [**Download the Data Here**](https://drive.google.com/drive/folders/1eviZk_uSUp8A53Eer5tolhVZIs2EnbGK?usp=sharing)
-
 ------------------------------------------------------------------------
 
 ### Create a new R Markdown document
