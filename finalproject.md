@@ -1,3 +1,11 @@
+---
+title: Assignments
+layout: default
+nav_enabled: true
+nav_order: 5
+has_children: true
+---
+
 <style>
 div.blue { background-color:#ffdad2; padding: 10px 10px 3px 10px;}
 </style>
