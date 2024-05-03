@@ -1,7 +1,6 @@
 ---
 title: Syllabus
 layout: default
-nav_enabled: true
 nav_order: 4
 ---
 # GEOG 215: Introduction to Spatial Data Science: Summer 2024 Session I
