@@ -1,0 +1,103 @@
+---
+title: "Introduction to R Markdown"
+output: html_document
+date: "2024-01-10"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is an R Markdown document. R Markdown documents are a convenient way to mix text and code in a readable format. This document will be your guidepost for completing R Markdown related tasks all semester, so be sure to review very carefully! 
+
+The first thing to do when you make a new R Markdown document is to save. "Save as" this file now in your GEOG215 folder. 
+
+The next thing you will want to do is modify your header. The header can be found in line 1-5. The three things that are included in a new .Rmd are the title, output, and date. You will want to choose a relevant title. Depending on the assignment, you may be asked to change other things in the header. 
+
+An R Markdown consists of 2 things-- the .Rmd (that's what you're in now) and a knitted document. In this class, the knitted document will always be a .html (look at line 3). This is the default. When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. When you make changes to the document, you will have to re-knit the document. Otherwise, you can check on "Knit on Save" so that it will re-knit automatically when you save it.  Look for the knit button (on the top banner). Practice knitting this document now. As you can see, the knitted document includes both text (which is what you are reading now) and code (see below). 
+
+### Code Chunks
+In a .Rmd, code must always be embedded in a "code chunk".  The easiest way to create a code chunk is to press the green c+ square on the top banner (to the far right of the knit button). When you press the code chunk button, this is what will appear. If you look at the knitted document, you'll notice that there is nothing below this line, even though there is a code chunk in the .Rmd. That's because there is nothing in this code chunk. 
+
+```{r}
+
+```
+
+
+You will make several modifications to the code chunk. One, you will insert your code. Two, you will give the code chunk a name. I have named this code chunk "cars" and written a single line of code. 
+
+```{r cars}
+##in .Rmds, you can include text. But text is not the same as comments. This is a comment (denoted by the ##). Each line of code that you write in a code chunk should include a descriptive comment.
+summary(cars)
+```
+
+Naming code chunks helps you keep track of what they do. 
+
+### Code Chunk Arguments
+
+There are additional arguments that you can add into the header of a code chunk that controls the output. 
+
+```{r evaluate}
+2 + 2
+```
+
+```{r donteval, eval = FALSE}
+2 + 2
+```
+In the knitted document, note that the first code chunk also prints the result, whereas the second code chunk, that has the eval = FALSE argument, only prints the code, it does not run (or evaluate) the code. 
+
+```{r include}
+2 + 2
+```
+
+```{r dontinclude, include = FALSE}
+2 + 2
+```
+In the knitted document, note that the first code chunk prints the code and result. The second chunk prints neither. Use the include = FALSE argument fpr setup code or other code you don't want cluttering your report. 
+
+
+```{r plot}
+plot(pressure)
+```
+
+
+```{r plotnocode, echo=FALSE}
+plot(pressure)
+```
+
+In the document, note that the first code chunk prints the code and the result. The second code chunk only presents the plot. Use this when you don't want your audience to see the underlying code-- for instance, when showing a plot. 
+
+Some other arguments include: 
+
+message = FALSE or warning = FALSE which stops messages from being printed. 
+
+error = TRUE causes the .html to render even if there are errors. 
+
+
+### Formatting 
+
+Formatting is a very important component of R Markdowns. There is an emphasis in this class on good formatting practices and readable R Markdowns. This section will introduce the main components of R Markdown formatting that you will use in this class. 
+
+Take a look back at the knitted document. Do you see how the "Formatting" text above is bigger and bold? That is called a third level header, and it is controlled by the number of #s you put. Take a look back at the knitted document and compare the sizes of the text below. Be aware that you must add the space between the # and your text for it to format correctly. 
+
+# This is a first level header
+
+## This is a second level header
+
+### This is a third level header
+
+### Other Formatting Tasks
+
+You can embed a hyperlink like below
+[linked phrase](http://example.com)
+
+Sometimes, you want to use inline code. Remember, that in normal circumstances, code MUST be in a code chunk in an R Markdown. The exception to this is inline code, which is R code that is included in the text of an R Markdown document. This code is evaluated, meaning that if the document is knitted, the results will show up in the knitted document (not the code). For instance, if we want to print the number of rows of a dataset as inline text, we would do the following: `r nrow(pressure)`. Notice how this command evaluates to a number (19) in the knitted document. 
+
+
+### More information
+For more information on R Markdowns look at the following resources:
+[R for Data Science - R Markdown](https://r4ds.had.co.nz/r-markdown.htm)
+[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+[Introduction to R Markdown](https://rmarkdown.rstudio.com/articles_intro.html)
+
+

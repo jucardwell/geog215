@@ -1,0 +1,118 @@
+---
+title: "Introduction to Tmap"
+output: html_document
+date: "2024-05-01"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+There are many packages that can be used to create g maps in R. In fact, ggplot (which is part of the tidyverse) has the ability to make great looking maps. In this class, we will be using the tmap package. Tmap is a great package for introductory mapping because the commands are relatively simple and it is easy to adjust the data classification method. This document will introduce you to the very basics of using tmap. Some other good resources are below:
+
+[Basic Mapping](https://spatialanalysis.github.io/lab_tutorials/4_R_Mapping.html)
+
+[tmap: get started!](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html)
+
+[tmap](https://bookdown.org/nicohahn/making_maps_with_r5/docs/tmap.html)
+
+## Basic Mapping in Tmap
+
+### Polygons
+```{r, message = FALSE}
+library(tmap)
+library(sf)
+library(rnaturalearth)
+data("World")
+
+tm_shape(World) + tm_polygons()
+```
+
+In this case, we use the tm_polygons() command because the features in the `World` object are polygons. If you are not sure of the geometry type of an object you can use the `st_geometry_type()` command
+```{r, warning = FALSE}
+st_geometry_type(World, by_geometry = FALSE)
+```
+
+### Points
+```{r, warning = FALSE}
+# Extract centroids
+country_centroids <- st_centroid(World)
+
+tm_shape(country_centroids) + tm_dots()
+```
+
+### Lines
+```{r, warning = FALSE}
+rivers <- ne_download(scale = 50, category = 'physical', type = 'rivers_lake_centerlines')
+
+tm_shape(rivers) + tm_lines()
+```
+
+
+## Styling Maps
+
+
+### Changing Colors and Sizes
+```{r, warning = FALSE}
+tm_shape(country_centroids) + tm_dots(col = "red")
+
+```
+
+```{r, warning = FALSE}
+tm_shape(country_centroids) + tm_dots(size = .5, col = "red")
+```
+
+```{r, warning = FALSE}
+tm_shape(rivers) + tm_lines(col = "blue")
+```
+
+```{r, warning = FALSE}
+tm_shape(rivers) + tm_lines(lwd = 3, col = "blue")
+```
+
+
+### Displaying Variables
+This is great, but often we want to display more on a map than just the outlines. You can display variables in tmap too. Note that tmap usually recognizes the difference between different data types. Since "HPI" is a continous variable, tmap has chosen to represent it on a color ramp. Since "continent" is categorical, it has used random colors. Note that if a categorical variable is represented as numeric, tmap will not be able to recognize it is categorical. 
+```{r, warning = FALSE}
+tm_shape(World) +
+    tm_polygons("HPI")
+
+tm_shape(World) +
+    tm_polygons("continent")
+```
+
+```{r, warning = FALSE}
+tm_shape(rivers) +
+    tm_lines("featurecla")
+```
+```{r}
+tm_shape(country_centroids) + tm_dots("life_exp")
+```
+
+### Adding Multiple Layers
+```{r}
+tm_shape(World) +
+    tm_polygons("continent") + tm_shape(rivers) + tm_lines()
+```
+
+
+### Changing Classification Scheme
+```{r, warning = FALSE}
+tm_shape(World) +
+    tm_polygons("HPI", style = "quantile")
+```
+
+```{r, warning = FALSE}
+tm_shape(World) +
+    tm_polygons("HPI", style = "jenks")
+```
+
+### Making Interactive Maps
+You can also embed interactive maps in RMarkdowns by using the `tmap_mode()` command
+
+```{r, warning = FALSE}
+tmap_mode("view")
+tm_shape(World) +
+    tm_polygons("HPI")
+```
+
