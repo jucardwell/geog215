@@ -211,8 +211,6 @@ find all the required elements and to understand my analysis?”
 Make sure that your .Rmd file knits. When you are finished, zip up your
 files/folders (this is extremely easy to do on Mac and Windows
 computers). Upload a .zip file that contains all the files required to
-perform your analysis on Sakai! If your file is too large, upload your
-file to your personal UNC OneDrive and provide a link in your submission
-on Sakai.
+perform your analysis on Canvas
 
 ------------------------------------------------------------------------
