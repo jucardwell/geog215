@@ -1,5 +1,5 @@
 ---
-title: Assignments
+title: Final Project
 layout: default
 nav_enabled: true
 nav_order: 5
