@@ -1,10 +1,10 @@
 ---
-title: Final Project
+title: Final Project Instructions
 layout: default
-nav_enabled: true
-nav_order: 5
-has_children: true
+parent: Final Project
+nav_order: 2
 ---
+
 
 <style>
 div.blue { background-color:#ffdad2; padding: 10px 10px 3px 10px;}
