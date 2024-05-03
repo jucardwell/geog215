@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: https://jucardwell.github.io/geog215
 
+search_enabled: false
+
 defaults:
   -
     scope:
