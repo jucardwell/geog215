@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: Assignments
 layout: default
 nav_order: 2
 ---
