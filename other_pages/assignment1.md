@@ -1,3 +1,13 @@
+---
+title: Assignment 1
+layout: default
+nav_exclude: true
+parent: Assignments
+nav_order: 1
+---
+
+
+
 <style>
 div.blue { background-color:#e0f0ff; padding: 10px 10px 3px 10px;}
 </style>
