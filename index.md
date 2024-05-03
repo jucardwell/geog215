@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# GEOG 215: Introduction to Spatial Data Science: Summer 2024 Session I 
+# GEOG 215: Introduction to Spatial Data Science, Summer 2024 Session I 
 
 ### Course Information
 - **Meeting Pattern**: M-F 9:45am-11:15am
