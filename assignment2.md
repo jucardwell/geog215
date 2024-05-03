@@ -1,7 +1,7 @@
 ---
 title: Assignment 2
 layout: default
-nav_order: 5
+nav_enabled: false
 ---
 
 
