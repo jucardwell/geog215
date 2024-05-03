@@ -1,7 +1,6 @@
 ---
 title: Assignment 1
 layout: default
-nav_exclude: true
 parent: Assignments
 nav_order: 1
 ---
