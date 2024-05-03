@@ -2,6 +2,8 @@
 title: Assignment 2
 layout: default
 nav_exclude: true
+parent: Assignments
+nav_order: 2
 ---
 
 
