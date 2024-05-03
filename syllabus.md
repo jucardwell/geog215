@@ -3,17 +3,15 @@ title: Syllabus
 layout: default
 nav_order: 4
 ---
-
- # GEOG 215: Introduction to Spatial Data Science: Summer 2024 Session I
+# GEOG 215: Introduction to Spatial Data Science: Summer 2024 Session I
 
 Abbreviated Syllabus [Download full syllabus here](https://drive.google.com/file/d/1PahFBApqTElxpHawRGqzP8ACuXOME-MJ/view?usp=sharing)
 
 
 ### Course Information
-| **Meeting Pattern**  | M-F 9:45am-11:15am |
-| ------------------- | ------------------ |
-| **Instructional Format** | Options: In-person, Remote Synchronous |
-| **Classroom or Location** | Carolina Hall 220 or [Zoom Link](https://unc.zoom.us/j/98590343821) |
+- **Meeting Pattern**: M-F 9:45am-11:15am
+- **Instructional Format**: Options: In-person, Remote Synchronous
+- **Classroom or Location**: Carolina Hall 220 or [Zoom Link](https://unc.zoom.us/j/98590343821)
 
 ### Instructor Information
 - **Name**: Julia Cardwell
