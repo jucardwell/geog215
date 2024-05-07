@@ -2,7 +2,7 @@
 title: Final Project Instructions
 layout: default
 parent: Final Project
-nav_order: 5
+nav_order: 4
 ---
 
 
