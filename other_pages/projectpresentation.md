@@ -18,7 +18,7 @@ div.blue { background-color:#e0f0ff; padding: 10px 10px 3px 10px;}
 ------------------------------------------------------------------------
 # Final Project Presentation
 
-Each student in the class will make a 5-7 presentation during the final exam period
+Each student in the class will make a 5-7 minute presentation during the final exam period
 where you will summarize the results of your final project. 
 
 You do not need to create a separate presentation, you are free to use
