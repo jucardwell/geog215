@@ -1,5 +1,5 @@
 ---
-title: May 17 In Class Activity
+title: 
 layout: default
 nav_exclude: true
 ---
