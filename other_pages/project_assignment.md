@@ -41,18 +41,15 @@ You must organize your analysis such that it is fully reproducible. The most imp
 
 This is a general breakdown of how your final project may be organized. 
 
-## *Introduction*
+#### *Introduction*
 
 *Should be a broad introduction to your topic and your research question. This should be approximately 2-3 paragraphs. You must include at least two outside data sources (at least one must be a peer-reviewed article).*
 
-## *Data Preparation*
+#### *Data Preparation*
 
 *Describe data preparation and processing steps required to acquire and prepare your data for analysis. Please **do not** include the code you used to extract the data in your final project report .Rmd document!! This
 should be in a separate .Rmd file (see Project Task \#1 and 2) that
 should be submitted with your final project files.
-
-
-## *Exploratory Spatial Data Analysis*
 
 #### *Data Description and Summary*
 
@@ -71,7 +68,7 @@ your method to answer the question. Include your answer to the research
 question (your interpretation of the statistical test or graphic). You
 may want to break this section up into subsections!*
 
-## *Conclusion*
+#### *Conclusion*
 
 *Include a summary of the entire project*
 
