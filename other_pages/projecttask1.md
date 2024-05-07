@@ -67,13 +67,8 @@ name) and save it (I would suggest saving it to a location such as
     code chunk above. How do you know the command worked? (2-3
     sentences)
 
--   Include a separate R code chunk (with third level heading) that
+-   Include a separate R code chunk (with third level heading) that makes a simple map using the spatial data layer. 
 
-    -   Uses `glimpse()` on each data layer (and prints to the console).
-        The `glimpse()` command is available in the tidyverse package.
-    -   Prints the number of observations/variables (rows/columns) for
-        each layer  
-    -   Makes a simple map using the spatial data layer
 
 **Other requirements:**
 
