@@ -19,12 +19,12 @@ nav_exclude: false
 
 You will now create a simplified R Markdown document with some of the commands that you have run in the Rcommands file. 
 
-4. In RStudio, select File | New File | R Markdown
+4. In RStudio, select File -> New File -> R Markdown
 
-5. Once you have the file open, select File | Save As, and save the file using the following naming convention:
+5. Once you have the file open, select File -> Save As, and save the file using the following naming convention:
 
-    *Lastname*_GEOG215_InClass*#*.Rmd in your **in_class_05172024**
-    For example, Julia's file would be: **Cardwell_GEOG215_InClass1.Rmd**
+    **Lastname**_GEOG215_InClass1.Rmd in your **in_class_05172024**
+    For example, Julia's file would be: **Cardwell**_GEOG215_InClass1.Rmd
 
 7. Change the title of the document to **GEOG 215, In Class #1** and change the name to **your name**. When, complete, knit to HTML to make sure everything worked. 
 
@@ -34,7 +34,7 @@ You will now create a simplified R Markdown document with some of the commands t
 
 7. Create another third-level heading called "Read in and Modify Data". Add a code chunk below. Return to the "GEOG215-ex3-RCommands.R" and identify the command that reads in the nc.mar object. Copy this command to the code chunk. Then, identify the command that modifies the nc.mar object to create a new column representing average marriages. Copy this command to the code chunk. Add descriptive comments for both of these commands. 
 
-8. Create another third-level heading called "Plotting Data". Add a code chunk below and modify this code chunk to only print the output, not the code. Return to the "INCLASSACTIVITY1" and identify the command that makes a plot (it can be either of the plots). Copy this command to the code chunk. Add a descriptive comment for this command.
+8. Create another third-level heading called "Plotting Data". Add a code chunk below and modify this code chunk to only print the output, not the code. Return to the "GEOG215-ex3-RCommands.R" and identify the command that makes a plot (it can be either of the plots). Copy this command to the code chunk. Add a descriptive comment for this command.
 
 9. Create another third-level heading called "Practicing In Line Code". Use inline code to add the number of rows in the nc.mar object. 
 
