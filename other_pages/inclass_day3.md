@@ -1,8 +1,7 @@
 ---
 title: May 17 In Class Activity
 layout: default
-parent: In-Class Exercises 
-nav_order: 1
+nav_exclude: false
 ---
 
 ******
