@@ -11,5 +11,4 @@ Exercise 2: [File Path Exercise](https://drive.google.com/drive/folders/1EWn_85G
 
 
 ## 05-17-2024
-
-
+Exercise 3: [Basic R Commands and R-Markdown}(https://jucardwell.github.io/geog215/other_pages/inclass_day3.html)
