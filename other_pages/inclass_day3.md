@@ -1,7 +1,7 @@
 ---
 title: May 17 In Class Activity
 layout: default
-nav_exclude: false
+nav_enabled: false
 ---
 
 ******
