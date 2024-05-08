@@ -21,4 +21,6 @@ nav_order: 8
 
 [Class 12 (05/31/2024): Filter, Aggregate, and Join](https://docs.google.com/presentation/d/1UlH1Z2zpqTnry0ZPG-zAL_PPlfghk2Sz/edit?usp=sharing&ouid=101338019870957132383&rtpof=true&sd=true)
 
+[Class 13 (06/03/2024): Exploratory Spatial Data Analysis/ Project Management](https://docs.google.com/presentation/d/1zmvGll_4AGOElcpc3wUw13JMM67tMKov/edit?usp=sharing&ouid=101338019870957132383&rtpof=true&sd=true)
+
 
