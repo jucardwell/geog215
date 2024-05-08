@@ -34,3 +34,10 @@ Exercise 10: [Mapping](https://drive.google.com/uc?export=download&id=1uLFeZQOlL
 
 ## 05-29-2024
 Exercise 11: [Wrangling Data](https://drive.google.com/drive/folders/1uwUmIsK7f8GYW9uXQCHw1IjuD90I5a8B?usp=sharing)
+
+## 05-31-2024
+Exercise 12: [Filter and Aggregate](https://drive.google.com/uc?export=download&id=1cXtyCPxyr2mjpgfdVkc8PJbrWZ1p_xAk)
+Exercise 13: [Join](https://drive.google.com/uc?export=download&id=1RjkNZgn0yHoJgCHHW587v6OpbZAe-iKW)
+Exercise 14: [Make Spatial](https://drive.google.com/drive/folders/1XAZFGVmbkISfcl1ChHFLqF-RvESQkcLN?usp=sharing)
+
+## 06-03-2024
