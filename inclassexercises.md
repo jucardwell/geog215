@@ -9,6 +9,12 @@ Exercise 1: [Introduction to R](https://drive.google.com/uc?export=download&id=1
 
 Exercise 2: [File Path Exercise](https://drive.google.com/drive/folders/1EWn_85G6PnZg_hl0hMdBrZttb4BIp2ly?usp=drive_link)
 
-
 ## 05-17-2024
 Exercise 3: [Basic R Commands and R-Markdown](https://jucardwell.github.io/geog215/other_pages/inclass_day3.html)
+
+## 05-20-2024
+Exercise 4: [Introduction to Tidyverse](https://drive.google.com/drive/folders/18vvBdYrsJpI_RrnuEtbBOp_r2etSymzH?usp=sharing)
+
+## 05-21-2024
+Exercise 5: [Base R vs. Tidyverse](https://drive.google.com/drive/folders/199XSYmw6keefgSizwCmkPSqOpfdn95dS?usp=sharing)
+
