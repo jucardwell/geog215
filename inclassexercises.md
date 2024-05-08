@@ -43,3 +43,4 @@ Exercise 13: [Join](https://drive.google.com/uc?export=download&id=1RjkNZgn0yHoJ
 Exercise 14: [Make Spatial](https://drive.google.com/drive/folders/1XAZFGVmbkISfcl1ChHFLqF-RvESQkcLN?usp=sharing)
 
 ## 06-03-2024
+Exercise 15: [EDSA](https://drive.google.com/drive/folders/1NsHOi4-i1zO5CjQzzjnZgxM7AcQpk4Z0?usp=sharing)
