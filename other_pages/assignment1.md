@@ -19,7 +19,8 @@ manipulation, and make a graph. You will be performing all your work
 within an R Markdown document for this assignment. You will be working
 with North Carolina countywide population projections provided by the
 North Carolina Office of State Budget and Management
-(<https://www.osbm.nc.gov/facts-figures/population-demographics/state-demographer/countystate-population-projections/population-overview>)
+(<https://www.osbm.nc.gov/facts-figures/population-demographics/state-demographer/countystate-population-projections/population-overview>).
+Make sure each line of code has a descriptive comment. 
 
 [**Download the Data Here**](https://drive.google.com/uc?export=download&id=1n931oVVyQPzLfNlSBbwGTWppLXlpLq1H)
 ------------------------------------------------------------------------
