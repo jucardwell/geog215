@@ -19,4 +19,6 @@ nav_order: 8
 
 [Class 11 (05/30/2024): Asking Spatial Questions](https://docs.google.com/presentation/d/1CGUUzI8yVGqFUXJ_fglQlXuB4djbD2TI/edit?usp=sharing&ouid=101338019870957132383&rtpof=true&sd=true)
 
+[Class 12 (05/31/2024): Filter, Aggregate, and Join](https://docs.google.com/presentation/d/1UlH1Z2zpqTnry0ZPG-zAL_PPlfghk2Sz/edit?usp=sharing&ouid=101338019870957132383&rtpof=true&sd=true)
+
 
