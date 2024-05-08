@@ -18,3 +18,19 @@ Exercise 4: [Introduction to Tidyverse](https://drive.google.com/drive/folders/1
 ## 05-21-2024
 Exercise 5: [Base R vs. Tidyverse](https://drive.google.com/drive/folders/199XSYmw6keefgSizwCmkPSqOpfdn95dS?usp=sharing)
 
+## 05-22-2024
+Exercise 6: [Projected Coordinate Systems](https://drive.google.com/uc?export=download&id=1NJh26l5Ni7h4uUa4LUArHpgWQWh9tUNj)
+
+Exercise 7: [Importing Spatial Data](https://drive.google.com/drive/folders/1uZ2GuZrX0xn7nxFaAfA1ykUe8EcySRjs?usp=sharing)
+
+## 05-23-2024
+Exercise 8: [Usable Spatial Data](https://drive.google.com/uc?export=download&id=1uLFeZQOlLRYC7uAUy0sGXoLM3idQEblX)
+
+## 05-24-2024
+Exercise 9: [Transforming Data](https://drive.google.com/uc?export=download&id=1uLFeZQOlLRYC7uAUy0sGXoLM3idQEblX)
+
+## 05-28-2024
+Exercise 10: [Mapping](https://drive.google.com/uc?export=download&id=1uLFeZQOlLRYC7uAUy0sGXoLM3idQEblX)
+
+## 05-29-2024
+Exercise 11: [Wrangling Data](https://drive.google.com/drive/folders/1uwUmIsK7f8GYW9uXQCHw1IjuD90I5a8B?usp=sharing)
