@@ -16,6 +16,6 @@ nav_order: 6
 # [Introduction to tmap](https://drive.google.com/uc?export=download&id=1-bUbk10aznTeCy6ifXe7S0cxhOwopEbA)
 
 # Introduction to RMarkdown 
-[html](https://drive.google.com/file/d/1OEmJVYVz3DYn7dzdsrZMIkycTCtGI9M-/view?usp=sharing) 
-[Rmd](https://drive.google.com/file/d/1kMoohb0XfOIaXd1LlXvIO8aiFAcopIkp/view?usp=sharing)
+[html](https://drive.google.com/uc?export=download&id=1OEmJVYVz3DYn7dzdsrZMIkycTCtGI9M-) 
+[Rmd](https://drive.google.com/uc?export=download&id=1kMoohb0XfOIaXd1LlXvIO8aiFAcopIkp)
 
