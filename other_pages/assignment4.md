@@ -66,9 +66,12 @@ Remember that each line of code needs a descriptive comment.
 
 ### Create Function
 
-1.  Create a function that takes two arguments, a spatial object, and a variable name.
+1. Add a **third-level heading** to your R Markdown file named, “Create Function”.
+  Below this heading, add a code chunk.
    
-2.  The function should develop a tmap based on the arguments that does the following:
+3.  Create a function that takes two arguments, a spatial object, and a variable name.
+   
+4.  The function should develop a tmap based on the arguments that does the following:
   - Adds NC counties as the "basemap". **Hint: This means you will have two tm_shape + arguments
     and you will map the NC counties object first**
   - uses `tm_dots()` to map the "variable name" argument using the `Purples` color palette
@@ -78,7 +81,10 @@ Remember that each line of code needs a descriptive comment.
 
 ### Create Maps
 
-1.  Map fire stations, emergency shelters, and hospitals using the function created above
+1. Add a **third-level heading** to your R Markdown file named, “Map”.
+  Below this heading, add a code chunk.
+
+2.  Map fire stations, emergency shelters, and hospitals using the function created above
 ------------------------------------------------------------------------
 
 ### Deliverables
