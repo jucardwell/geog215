@@ -67,15 +67,19 @@ Remember that each line of code needs a descriptive comment.
 
 ### Clean Data
 
-1.  Rename the "Enrollment at School" field to something without spaces.
+1. Add a **third-level heading** named "Clean Data". Create a chunk below
+   
+2.  Rename the "Enrollment at School" field to something without spaces.
 
-2.  Make the data spatial. The latitude and longitude columns are in crs = 4326.
+3.  Make the data spatial. The latitude and longitude columns are in crs = 4326.
 
 ### Execute EDSA
 
-1.  Create one descriptive statistics table for the enrollment column
+1. Add a **third-level heading** named "Execute EDSA". Create a chunk below
+   
+2.  Create one descriptive statistics table for the enrollment column
 
-2.  Create one non-map graphic for any of the descriptive columns.
+3.  Create one non-map graphic for any of the descriptive columns.
 
 **Hint: You will probably get an error when trying to make the descriptive 
 statistics table. You will need to figure out what Data Cleaning step you
@@ -83,7 +87,9 @@ still have to do**
 
 
 ### Map
-1.  Create two interactive maps, one showing the enrollment column and one showing the degree column  
+1. Add a **third-level heading** named "Map". Create a chunk below
+
+2. Create two interactive maps, one showing the enrollment column and one showing the degree column  
 
 ------------------------------------------------------------------------
 
