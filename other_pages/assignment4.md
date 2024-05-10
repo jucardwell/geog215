@@ -18,7 +18,7 @@ In this assignment you will script a function that defines the formatting for a 
 The data is from NCOneMap <https://www.nconemap.gov/datasets/ce5bbbe0c8194778859df0d3e02be3e7_0/explore>.
 Remember that each line of code needs a descriptive comment. 
 
-[**Download the Data Here**](https://drive.google.com/drive/folders/1bQocYzvR39UoFV7cjaCqSvjRS5n8pFeH?usp=sharing)
+[**Download the Data Here**](https://drive.google.com/drive/folders/17P9jb3ur834jLVfQRBRj3laG6i75diUH?usp=sharing)
 ------------------------------------------------------------------------
 
 ### Create a new R Markdown document
@@ -84,7 +84,8 @@ Remember that each line of code needs a descriptive comment.
 1. Add a **third-level heading** to your R Markdown file named, “Map”.
   Below this heading, add a code chunk.
 
-2. Map fire stations, emergency shelters, and hospitals using the function created above
+2. Map fire stations, emergency shelters, and hospitals using the function created above. For
+   fire stations, map the "
    
 ------------------------------------------------------------------------
 
