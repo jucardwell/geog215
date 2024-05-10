@@ -84,7 +84,8 @@ Remember that each line of code needs a descriptive comment.
 1. Add a **third-level heading** to your R Markdown file named, “Map”.
   Below this heading, add a code chunk.
 
-2.  Map fire stations, emergency shelters, and hospitals using the function created above
+2. Map fire stations, emergency shelters, and hospitals using the function created above
+   
 ------------------------------------------------------------------------
 
 ### Deliverables
