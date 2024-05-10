@@ -18,7 +18,7 @@ In this assignment you will script a function that defines the formatting for a 
 The data is from NCOneMap <https://www.nconemap.gov/datasets/ce5bbbe0c8194778859df0d3e02be3e7_0/explore>.
 Remember that each line of code needs a descriptive comment. 
 
-[**Download the Data Here**](https://drive.google.com/uc?export=download&id=1XuctmR6FtABZrT2UaCRgJ_9vTOVxsQnw](https://drive.google.com/drive/folders/1bQocYzvR39UoFV7cjaCqSvjRS5n8pFeH?usp=sharing)
+[**Download the Data Here**](https://drive.google.com/drive/folders/1bQocYzvR39UoFV7cjaCqSvjRS5n8pFeH?usp=sharing)
 ------------------------------------------------------------------------
 
 ### Create a new R Markdown document
@@ -64,28 +64,21 @@ Remember that each line of code needs a descriptive comment.
     file paths to read in the fire station, emergency shelter, and hospital data
 
 
-### Create function
+### Create Function
 
 1.  Create a function that takes two arguments, a spatial object, and a variable name.
    
-2.  In the function, make a tmap with the following structure:
-  - g
+2.  The function should develop a tmap based on the arguments that does the following:
+  - Adds NC counties as the "basemap". **Hint: This means you will have two tm_shape + arguments
+    and you will map the NC counties object first**
+  - uses `tm_dots()` to map the "variable name" argument using the `Purples` color palette
+    in the quantile style
+  - moves the legend to the top of the map
 
 
-### Execute EDSA
+### Create Maps
 
-1.  Create one descriptive statistics table for the enrollment column
-
-2.  Create one non-map graphic for any of the descriptive columns.
-
-**Hint: You will probably get an error when trying to make the descriptive 
-statistics table. You will need to figure out what Data Cleaning step you
-still have to do**
-
-
-### Map
-1.  Create two interactive maps, one showing the enrollment column and one showing the degree column  
-
+1.  Map fire stations, emergency shelters, and hospitals using the function created above
 ------------------------------------------------------------------------
 
 ### Deliverables
