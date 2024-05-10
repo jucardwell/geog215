@@ -81,8 +81,8 @@ Make sure each line of code has a descriptive comment.
 
 ### Create a Plot
 
-1.  Under the code chunk you last created, insert a ***third-level
-    heading*** to your R Markdown file named “Plot”.
+1.  Under the code chunk you last created, insert a **third-level
+    heading** to your R Markdown file named “Plot”.
 
 2.  Write a command to create a histogram of all county values in the
     `pop_2050` column.
@@ -95,8 +95,7 @@ represents a county in North Carolina. It is often useful to examine the
 aggregate the school-level data to the state-level and make a plot.
 
 1.  Under the code chunk you last created, insert a **third-level
-    heading** to your R Markdown file named “Aggregating data” (&lt;&lt;
-    without the quotes)
+    heading** to your R Markdown file named “Aggregating data”
 
 2.  Write a command that creates a new object called `state_summary`
     that gets the sum of all the columns except `County`.
@@ -109,10 +108,6 @@ aggregate the school-level data to the state-level and make a plot.
     error if we try to take the sum of the `County` variable. In that
     same plain text, add in-line code that prints the statewide
     population change from 2010-2050.
-
-5.  Knit your document. **Review the knitted .html version of your
-    assignment and look for issues/problems with formatting and
-    spelling!**
 
 ------------------------------------------------------------------------
 
