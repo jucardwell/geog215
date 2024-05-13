@@ -6,6 +6,8 @@ nav_order: 5
 has_children: true
 has_toc: false
 ---
+[**See Assignment Rubrics Here**](https://docs.google.com/spreadsheets/d/1wSpwwtlweDnUJ0vSUKw_4ZIQ2GdLGAwBDAwDK7-jExg/edit?usp=sharing)
+------------------------------------------------------------------------
 
 | Project Task | Name | Due Date     |
 |--------------|------|--------------|
