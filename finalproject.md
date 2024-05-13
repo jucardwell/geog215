@@ -4,6 +4,7 @@ layout: default
 nav_enabled: true
 nav_order: 5
 has_children: true
+has_toc: false
 ---
 
 | Project Task | Name | Due Date     |
