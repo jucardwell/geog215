@@ -23,32 +23,6 @@ Remember that each line of code needs a descriptive comment.
 
 ### Create a new R Markdown document
 
-1.  If RStudio is open, close it and do not save your environment. Open
-    RStudio and make sure that your environment is empty, then choose
-    File | New File | R Markdown. *Note: to clear your Environment, find
-    the button that looks like a broom in the Environment tab!*
-
-    In the popup window, enter “Assignment \#4” for the title and for
-    author, enter your name. Make sure that the type (on the left) is
-    Document and the Default Output Format is HTML.
-
-    Note that the new R Markdown document should have populated the
-    “header” section to include the information you entered. For
-    example, mine looks like this:
-
-<style type="text/css">
-.indent {
- margin-left: 40px;
-}
-</style>
-
-    ---
-    title: "Assignment #4"
-    author: "Julia Cardwell"
-    date: "5/29/2024"
-    output: html_document
-    ---
-
 1.  Save your .RMD file using the following naming convention:
 
 -   **Lastname**\_GEOG215\_Assg**4**.Rmd
