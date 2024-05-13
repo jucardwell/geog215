@@ -22,6 +22,7 @@ spatial data analysis in a reproducible format. This analysis will build on skil
 ### Required Components
 -   Create spatial data from non-spatial data (e.g. join)
 -   Produce descriptive statistics for your variable of interest
+-   Produce at least one non-map graphic (for instance, a histogram or scatterplot)
 -   Create at least two different maps (which must be in interactive mode)
 -   Execute spatial clustering analysis (this should be Moran’s I and LISA)
 -   Develop one research question, with appropriate table(s),
