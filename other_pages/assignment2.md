@@ -69,13 +69,6 @@ tmap.
     and classifies the trees by the “COMP\_” column (which represents
     the type of trees)
 
-2.  Spell check your .Rmd document (Edit | Check Spelling or the little
-    button in RStudio with an “ABC” and check mark). Knit your document.
-    **Review the knitted .html version of your assignment and look for
-    issues/problems with formatting!** I suggest viewing the output in
-    an actual browser rather than in RStudio’s browser (look for the
-    Open in Browser button of the popup window with the knitted output).
-
 ------------------------------------------------------------------------
 
 ### Deliverables
