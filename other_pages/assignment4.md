@@ -59,7 +59,8 @@ Remember that each line of code needs a descriptive comment.
   Below this heading, add a code chunk.
 
 2. Map fire stations, emergency shelters, and hospitals using the function created above. For
-   fire stations, map the "
+   fire stations, map the "staff" variable, for emergency shelters map the "capacity" variable, and
+   for hospitals map the "hgenlic" variable (represents the number of available beds). 
    
 ------------------------------------------------------------------------
 
