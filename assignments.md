@@ -5,6 +5,8 @@ nav_enabled: true
 nav_order: 2
 has_children: true
 ---
+[**See Assignment Rubrics Here**](https://docs.google.com/spreadsheets/d/17CWU-Hphfuo07-pNsSvmpiAgtaMFLFaWqowkNXh6NO4/edit?usp=sharing)
+------------------------------------------------------------------------
 
 | Assignment | Name | Due Date     |
 |------------|------|--------------|
