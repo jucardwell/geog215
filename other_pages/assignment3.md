@@ -15,7 +15,7 @@ div.blue { background-color:#e0f0ff; padding: 10px 10px 3px 10px;}
 ------------------------------------------------------------------------
 # Assignment 3
 In this assignment you will "make data spatial", perform data 
-cleaning steps and execute an Exploratory Data Analysis (EDSA).
+cleaning steps and execute an Exploratory Data Analysis (EDA).
 The data is from NCOneMap <https://www.nconemap.gov/datasets/ce5bbbe0c8194778859df0d3e02be3e7_0/explore>.
 Remember that each line of code needs a descriptive comment. 
 
