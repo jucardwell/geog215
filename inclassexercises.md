@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 ## 05-16-2024 
-Exercise 1: [Introduction to R](https://drive.google.com/uc?export=download&id=1Y_pT-FNywAGJJZ3qLzf1l2QMc0ePqhdA)
+Exercise 1: [Introduction to R](https://drive.google.com/uc?export=download&id=1GjeoonhuNvZYXVWio2TYcdt0IZ5qcpWA)
 
 Exercise 2: [File Path Exercise](https://drive.google.com/drive/folders/1EWn_85G6PnZg_hl0hMdBrZttb4BIp2ly?usp=drive_link)
 
