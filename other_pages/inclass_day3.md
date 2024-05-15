@@ -7,11 +7,9 @@ nav_exclude: true
 ******
 
 ### Execute commands in R from an R script 
-1. Create a folder in your "exercises" folder called **in_class_05172024**. 
-   
-2. Download [GEOG215-ex3-RCommands.R](https://drive.google.com/uc?export=download&id=1Pev98uA_jKvQNn61euxVcQzEiQeG1MF7) into **in_class_05172024**
+1. Download [this](https://drive.google.com/drive/folders/1-6aHd7ReRYmsMp9urzi_mSfKBLN_Xjh1?usp=sharing) into your in-class exercises folder. 
 
-3. Open the document in R studio. Read through the document, execute the commands, and answer the questions in the script.  
+3. Open GEOG215-ex3-RCommands.R in R studio. Read through the document, execute the commands, and answer the questions in the script.  
 
 ******
 
