@@ -1,7 +1,7 @@
 ---
 title: In-Class Exercises
 layout: default
-nav_order: 6
+nav_order: 4
 ---
 
 ## 05-16-2024 
