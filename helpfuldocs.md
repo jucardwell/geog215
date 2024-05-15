@@ -3,7 +3,6 @@ title: Helpful Documents
 layout: default
 nav_order: 8
 ---
-# [Downloading R and R Studio](https://drive.google.com/file/d/1A7FThytiUIwAidpHvR4RKB2Ia4mdAiGr/view?usp=sharing)
 
 # [File Path Help](https://drive.google.com/file/d/1Rs_9j0dEvaQ66a6Jah8FhgrI5r3nX7nz/view?usp=sharing)
 
