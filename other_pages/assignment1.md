@@ -98,7 +98,7 @@ aggregate the county-level data to the state-level.
     heading** to your R Markdown file named “Aggregating data”
 
 2.  Write a command that creates a new object called `state_summary`
-    that gets the sum of all the columns except `County`.
+    that gets the sum of each column except `County`.
 
 3.  Add a new column to the `state_summary` object called
     `overall_change`. Use the `mutate()` command to fill this column
