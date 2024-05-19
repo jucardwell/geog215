@@ -30,4 +30,4 @@ nav_order: 3
 | 14-Jun | 5    | 22  | Bivariate Relationships                    |            |                 |
 | 17-Jun | 6    | 23  | Spatial Regressions                        |            | [Spatial Regressions](http://www.geo.hunter.cuny.edu/~ssun/R-Spatial/spregression.html)                |
 | 18-Jun | 6    | 24  | Catch-up/ Project Workday                  |            |                 |
-| 21-Jun | 6    | 24  | **Exam Period, 8:00-11:00am**                  |            |                 |
+| 21-Jun | 6    | 27  | **Exam Period, 8:00-11:00am**                  |            |                 |
