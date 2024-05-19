@@ -92,7 +92,7 @@ Make sure each line of code has a descriptive comment.
 After examining the dataset, you have probably noticed that each row
 represents a county in North Carolina. It is often useful to examine the
 “study region” as a whole (in this case, the full state). We will now
-aggregate the school-level data to the state-level and make a plot.
+aggregate the county-level data to the state-level.
 
 1.  Under the code chunk you last created, insert a **third-level
     heading** to your R Markdown file named “Aggregating data”
