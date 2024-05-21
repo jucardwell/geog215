@@ -14,7 +14,7 @@ div.blue { background-color:#e0f0ff; padding: 10px 10px 3px 10px;}
 
 ------------------------------------------------------------------------
 # Assignment 4
-In this assignment you will script a function that defines the formatting for a tmap
+In this assignment you will script a function that defines the formatting for a tmap.
 The data is from NCOneMap <https://www.nconemap.gov/datasets/ce5bbbe0c8194778859df0d3e02be3e7_0/explore>.
 Remember that each line of code needs a descriptive comment. 
 
