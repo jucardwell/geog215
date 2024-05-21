@@ -86,7 +86,7 @@ double-spaced typed pages.
 
 ### Formatting
 
-There is a lot of flexibility regarding formatting your final project. Your final document must be readable and visually pleasing. For instance, you should use clear headers, you should not have code warnings and messages in the output, you may want to hide some of your code chunks in the output, you might want to look into R Markdown themes and the `kable` R package for tables. Your maps should be clear, your figures should have readable, well-described axis labels, your tables should be well-formatted, etc..  
+There is a lot of flexibility regarding formatting your final project. Your final document must be readable and visually pleasing. For instance, you should use clear headers, you should not have code warnings and messages in the output, you may want to hide some of your code chunks in the output, you might want to look into R Markdown themes and the `kable` R package for tables. Your maps should be clear, your figures should have readable, well-described axis labels and titles, your tables should be well-formatted, etc. 
 
 ------------------------------------------------------------------------
 
