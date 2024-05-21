@@ -65,6 +65,7 @@ Remember that each line of code needs a descriptive comment.
 ### Format your .Rmd File
 1. Review the .Rmd help document. Format your .Rmd so that messages and warnings
    do not appear in the .knitted document. 
+
    
 ------------------------------------------------------------------------
 
