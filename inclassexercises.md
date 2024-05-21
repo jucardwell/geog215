@@ -27,7 +27,7 @@ Exercise 7: [Importing Spatial Data](https://drive.google.com/drive/folders/1uZ2
 Exercise 8: [Usable Spatial Data](https://drive.google.com/uc?export=download&id=1uLFeZQOlLRYC7uAUy0sGXoLM3idQEblX)
 
 ## 05-24-2024
-Exercise 9: [Transforming Data](https://drive.google.com/uc?export=download&id=1uLFeZQOlLRYC7uAUy0sGXoLM3idQEblX)
+Exercise 9: [Transforming Data](https://drive.google.com/drive/folders/1W7KwLrLtILz2OX7jpN9pPHBWC6YbYpHW?usp=sharing)
 
 ## 05-28-2024
 Exercise 10: [Mapping](https://drive.google.com/uc?export=download&id=1uLFeZQOlLRYC7uAUy0sGXoLM3idQEblX)
