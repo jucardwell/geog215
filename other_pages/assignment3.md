@@ -63,7 +63,13 @@ still have to do**
 ### Map
 1. Add a **third-level heading** named "Map". Create a chunk below
 
-2. Create two interactive maps, one showing the enrollment column and one showing the degree column  
+2. Create two interactive maps, one showing the enrollment column and one showing the degree column
+
+
+### Format your .Rmd File
+1. Review the .Rmd help document. Format your .Rmd so that messages and warnings
+   do not appear in the knitted document. Also format your .Rmd so that the underlying code
+   for the descriptive statistics table and the non-map graphic does not render in the .html. 
 
 ------------------------------------------------------------------------
 
