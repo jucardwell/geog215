@@ -53,7 +53,11 @@ nursing homes in North Carolina. The data is from NCOneMap (https://www.nconemap
    coded by the closest hospital. 
    
 3. Create a summary table for hospitals which calculates the number of nursing homes that each hospital
-   is closest for. 
+   is closest for.
+
+### Format your .Rmd File
+1. Review the .Rmd help document. Format your .Rmd so that messages and warnings
+   do not appear in the knitted document. 
    
 ------------------------------------------------------------------------
 
