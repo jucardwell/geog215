@@ -51,9 +51,10 @@ Remember that each line of code needs a descriptive comment.
 
 1. Add a **third-level heading** named "Execute EDSA". Create a chunk below
    
-2.  Create one descriptive statistics table for the enrollment column
+2.  Create one descriptive statistics table for the enrollment column. 
 
-3.  Create one non-map graphic for any of the descriptive columns.
+3.  Create one non-map graphic for any of the descriptive columns. Make sure this graphic has a title
+   and all other appropriate formatting. 
 
 **Hint: You will probably get an error when trying to make the descriptive 
 statistics table. You will need to figure out what Data Cleaning step you
