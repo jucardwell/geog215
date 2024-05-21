@@ -69,6 +69,9 @@ tmap.
     and classifies the trees by the “COMP\_” column (which represents
     the type of trees)
 
+### Format your .Rmd File
+1. Review the .Rmd help document. Format your .Rmd so that messages and warnings
+   do not appear in the .knitted document. 
 ------------------------------------------------------------------------
 
 ### Deliverables
