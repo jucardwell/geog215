@@ -60,7 +60,11 @@ Remember that each line of code needs a descriptive comment.
 
 2. Map fire stations, emergency shelters, and hospitals using the function created above. For
    fire stations, map the "staff" variable, for emergency shelters map the "capacity" variable, and
-   for hospitals map the "hgenlic" variable (represents the number of available beds). 
+   for hospitals map the "hgenlic" variable (represents the number of available beds).
+
+### Format your .Rmd File
+1. Review the .Rmd help document. Format your .Rmd so that messages and warnings
+   do not appear in the .knitted document. 
    
 ------------------------------------------------------------------------
 
