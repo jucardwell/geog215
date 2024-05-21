@@ -54,7 +54,8 @@ Make sure each line of code has a descriptive comment.
 1.  Under the code chunk that reads in data, insert a **third-level
     heading** to your R Markdown file named, “Map Bus Stops and Bus
     Routes”. Create a static map that shows bus stops as a single color
-    and shows bus routes categorized by the “Name” column.
+    and shows bus routes categorized by the “Name” column. Make sure the tmap has
+    a title. 
 
 So far, we have only mapped polygons. In this case the `bus_stops` data
 is points and the `bus_routes` data is lines. Review the tmap
