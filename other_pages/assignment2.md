@@ -55,7 +55,8 @@ Make sure each line of code has a descriptive comment.
     heading** to your R Markdown file named, “Map Bus Stops and Bus
     Routes”. Create a static map that shows bus stops as a single color
     and shows bus routes categorized by the “Name” column. Make sure the tmap has
-    a title. 
+    a title. You will note that sometimes, tmap creates a legend that overlaps
+    the map area. Add this code to your tmap command `+   tm_layout(legend.outside = TRUE) `
 
 ### Map Tree Species in Carrboro
 
