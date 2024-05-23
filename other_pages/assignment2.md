@@ -56,7 +56,7 @@ Make sure each line of code has a descriptive comment.
     Routes”. Create a static map that shows bus stops as a single color
     and shows bus routes categorized by the “Name” column. Make sure the tmap has
     a title. You will note that sometimes, tmap creates a legend that overlaps
-    the map area. Add this code to your tmap command `+   tm_layout(legend.outside = TRUE) `
+    the map area. Add this code to your tmap command `+ tm_layout(legend.outside = TRUE) `
 
 ### Map Tree Species in Carrboro
 
@@ -64,10 +64,12 @@ Make sure each line of code has a descriptive comment.
     **third-level heading** named “Map Tree Species in Carrboro”. Add an
     **interactive** map (with a basemap) that displays trees in Carrboro
     and classifies the trees by the “COMP\_” column (which represents
-    the type of trees).
+    the type of trees). You should get an error. Sometimes data from the web
+    contains geometry errors which prevent tmap from mapping them. Add this command
+    `%>% st_make_valid` to your tree read in command to fix any invalid geometries. 
 
-2. Write a command to make and print a summary table that counts the number of trees
-   of each species type. Hint: you will use the `summarise` command. 
+3. Write a command to make and print a summary table that sums the amount of acres
+   of any tree type in Carrboro. Hint: you will use the `summarise` command. 
 
 ### Format your .Rmd File
 1. Review the .Rmd help document. Format your .Rmd so that messages and warnings
