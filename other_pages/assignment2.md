@@ -25,7 +25,7 @@ Make sure each line of code has a descriptive comment.
 
 ### Create a new R Markdown document
 
-1.  Save your .RMD file using the following naming convention:
+1.  Download the data into the Assignment 2 folder. Save a new .RMD file in your Assignment 2 folder using the following naming convention:
 
 -   **Lastname**\_GEOG215\_Assg**2**.Rmd
 -   For example, Julia’s file would be: **Cardwell\_GEOG215\_Assg2.Rmd**
