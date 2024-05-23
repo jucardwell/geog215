@@ -57,18 +57,16 @@ Make sure each line of code has a descriptive comment.
     and shows bus routes categorized by the “Name” column. Make sure the tmap has
     a title. 
 
-So far, we have only mapped polygons. In this case the `bus_stops` data
-is points and the `bus_routes` data is lines. Review the tmap
-documentation on Canvas to determine how to add lines and points to a
-tmap.
-
 ### Map Tree Species in Carrboro
 
 1.  Under the code chunk that maps bus stops and bus routes, insert a
     **third-level heading** named “Map Tree Species in Carrboro”. Add an
     **interactive** map (with a basemap) that displays trees in Carrboro
     and classifies the trees by the “COMP\_” column (which represents
-    the type of trees)
+    the type of trees).
+
+2. Write a command to make and print a summary table that counts the number of trees
+   of each species type. Hint: you will use the `summarise` command. 
 
 ### Format your .Rmd File
 1. Review the .Rmd help document. Format your .Rmd so that messages and warnings
