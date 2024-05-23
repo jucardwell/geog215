@@ -30,7 +30,7 @@ Exercise 8: [Usable Spatial Data](https://drive.google.com/uc?export=download&id
 Exercise 9: [Transforming Data](https://drive.google.com/drive/folders/1W7KwLrLtILz2OX7jpN9pPHBWC6YbYpHW?usp=sharing)
 
 ## 05-28-2024
-Exercise 10: [Mapping](https://drive.google.com/uc?export=download&id=1uLFeZQOlLRYC7uAUy0sGXoLM3idQEblX)
+Exercise 10: [Mapping](https://drive.google.com/drive/folders/1XNelyMYFxPO9OKQVF862BVGD3rCfP1W4?usp=sharing)
 
 ## 05-29-2024
 Exercise 11: [Wrangling Data](https://drive.google.com/drive/folders/1uwUmIsK7f8GYW9uXQCHw1IjuD90I5a8B?usp=sharing)
