@@ -31,6 +31,7 @@ Exercise 9: [Transforming Data](https://drive.google.com/drive/folders/1W7KwLrLt
 
 ## 05-28-2024
 Exercise 10: [Mapping](https://drive.google.com/drive/folders/1XNelyMYFxPO9OKQVF862BVGD3rCfP1W4?usp=sharing)
+Exercise 10: [TMap Tutorial](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html)
 
 ## 05-29-2024
 Exercise 11: [Wrangling Data](https://drive.google.com/drive/folders/1uwUmIsK7f8GYW9uXQCHw1IjuD90I5a8B?usp=sharing)
