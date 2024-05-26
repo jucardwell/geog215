@@ -4,30 +4,33 @@ layout: default
 nav_order: 3
 ---
 
-| Date   | Week | Day | Topic                                      | Due        | Readings        |
-|--------|------|-----|--------------------------------------------|------------|-----------------|
-| 15-May | 1    | 1   | Introduction to course                     |            |                 |
-| 16-May | 1    | 2   | Introduction to R                          |            |   [R For Data Science, Chapters 1.1-1.6](https://r4ds.had.co.nz/introduction.html), [Working Directory](https://intro2r.com/work-d.html), File Paths Help document (in helpful docs)            |
-| 17-May | 1    | 3   | In Class Activity                          |            |  Introduction to RMarkdown (in helpful docs)               |
-| 20-May | 2    | 4   | Introduction to Tidyverse                  |            | [Tidy Data](https://jhudatascience.org/tidyversecourse/intro.html#tidy-data)                |
-| 21-May | 2    | 5   | In Class Activity- Tidyverse vs. Base R, Work on HW1 |HW 1       |      [Tidyverse Skeptic](https://github.com/matloff/TidyverseSkeptic), [Teaching Tidyverse to Beginnners](http://varianceexplained.org/r/teach-tidyverse/)|
-| 22-May | 2    | 6   | Spatial Data Day 1                        |            |[Basic Data Types](https://rspatial.org/intr/2-basic-data-types.html), [Coordinate Systems](https://mgimond.github.io/Spatial/chp09_0.html), [Feature Representation](https://mgimond.github.io/Spatial/chp02_0.html)                 |
-| 23-May | 2    | 7   | Spatial Data Day 2                        |            |                 |
-| 24-May | 2    | 8   | Mapping                                    |            |  [Tmap in a Nutshell](https://r-tmap.github.io/tmap-book/nutshell.html), Introduction to Tmap(in helpful docs)               |
-| 28-May | 3    | 9   | Mapping In Class Activity                  |            |                 |
-| 29-May | 3    | 10  | Data Wrangling                             |HW 2       |   [Data Manipulation with dplyr](https://cengel.github.io/R-data-wrangling/dplyr.html)              |
-| 30-May | 3    | 11  | **Exam 1**, Introduction to Project, Asking Spatial Questions |            |                 |
-| 31-May | 3    | 12  | Filter and Aggregate, Join                 |Project Task 1 |  [Data Wrangling in R](https://bookdown.org/jgscott/DSGI/data-wrangling.html)              |
-| 3-Jun  | 4    | 13  | Exploratory Spatial Data Analysis          |            |                 |
-| 4-Jun  | 4    | 14  | Computational Thinking, Control Structures |HW 3       |  [Control Structures](https://bookdown.org/rdpeng/RProgDA/control-structures.html)               |
-| 5-Jun  | 4    | 15  | In Class Activity- Control Structures      |Project Task 2 |                 |
-| 6-Jun  | 4    | 16  | Functions                                  |            | [Functions](https://r4ds.hadley.nz/functions.html)                |
-| 7-Jun  | 4    | 17  | **Exam 2**                                     |HW 4       |                 |
-| 10-Jun | 5    | 18  | Geographic Fundamentals                    |            |                 |
-| 11-Jun | 5    | 19  | Spatial Data Analysis                      |Project Task 3 |  [GIS Analysis Toolkit](https://bookdown.org/michael_bcalles/gis-crash-course-in-r/toolkit.html)               |
-| 12-Jun | 5    | 20  | Calculating Distance Spatial Neighbors     |            |                 |
-| 13-Jun | 5    | 21  | Spatial Clustering                         |HW 5       | [Global Spatial Autocorrelation](https://geodacenter.github.io/workbook/5a_global_auto/lab5a.html), [Local Spatial Autocorrelation](https://geodacenter.github.io/workbook/6a_local_auto/lab6a.html)                |
-| 14-Jun | 5    | 22  | Bivariate Relationships                    |            |                 |
-| 17-Jun | 6    | 23  | Spatial Regressions                        |            | [Spatial Regressions](http://www.geo.hunter.cuny.edu/~ssun/R-Spatial/spregression.html)                |
-| 18-Jun | 6    | 24  | Catch-up/ Project Workday                  |            |                 |
-| 21-Jun | 6    | 25  | **Exam Period, 8:00-11:00am**                  |            |                 |
+| Class | Week | Topic                                                          | Due                           | Readings |
+|-------|------|----------------------------------------------------------------|-------------------------------|----------|
+| 1     | 1    | Syllabus review, what is Google Earth Engine                   |                               | TBD      |
+| 2     | 1    | What is remote sensing? What are Natural Hazards?              |                               | TBD      |
+| 3     | 2    | History of remote sensing                                      |                               | TBD      |
+| 4     | 2    | Electromagnetic spectrum                                       |                               | TBD      |
+| 5     | 3    | Satellites, Sensors, Resolution                                |                               | TBD      |
+| 6     | 3    | Color theory, composites                                       |                               | TBD      |
+| 7     | 4    | Image Transformation, Common Remote Sensing Tasks              | Final Project Task 1          | TBD      |
+| 8     | 4    | Critical remote sensing                                        |                               | TBD      |
+| 9     | 5    | Natural Hazards Basics                                         |                               | TBD      |
+| 10    | 5    | Natural Hazards Basics- Hazards vs. Disasters                  |                               | TBD      |
+| 11    | 6    | Sensing the Climate- Important Datasets                        | Critical Remote Sensing Short Paper | TBD      |
+| 12    | 6    | Lab: Climate Variables                                         |                               | TBD      |
+| 13    | 7    | Sensing Natural Hazards- Indices                               | Lab 1                         | TBD      |
+| 14    | 7    | Lab: Calculating Indices (Wildfires)                           |                               | TBD      |
+| 15    | 8    | Sensing Natural Hazards- Time Series Analysis                  | Lab 2                         | TBD      |
+| 16    | 8    | Lab- Time Series (Hurricanes)                                  |                               | TBD      |
+| 23    | 12   | Sensing Natural Hazards- Presenting Results                    | Lab 3                         | TBD      |
+| 24    | 12   | Lab- Aggregating Data (Urban Heat)                             |                               | TBD      |
+| 17    | 9    | Sensing Natural Hazards- Change Detection                      | Lab 4                         | TBD      |
+| 18    | 9    | Lab: Change Detection (Flooding)                               | Final Project Task 2          | TBD      |
+| 19    | 10   | Sensing Natural Hazards- Supervised Classification             | Lab 5                         | TBD      |
+| 20    | 10   | Lab- Supervised Classification (Flooding)                      |                               | TBD      |
+| 21    | 11   | Sensing Natural Hazards- Accuracy Assessment                   | Lab 6                         | TBD      |
+| 22    | 11   | Lab- Unsupervised Classification                               |                               | TBD      |
+| 25    | 13   | Sensing Natural Hazards- Machine Learning                      | Lab 7                         | TBD      |
+| 26    | 13   | Lab- Machine Learning (Land Use Change under Climate Change Scenarios) |                      | TBD      |
+| 27    | 14   | Presentations                                                  | Lab 8                         | TBD      |
+| 28    | 14   | Presentations                                                  | Final Project                 | TBD      |
