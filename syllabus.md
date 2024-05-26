@@ -10,6 +10,8 @@ Abbreviated Syllabus [Download full syllabus here](https://drive.google.com/file
 ### Course Description
 This course introduces students to data science with a focus on spatial (geographic) data. We will explore various facets of data science practice including data collection, management and integration, descriptive modeling, exploratory spatial data analysis, and communication via visualization and mapping using real-world datasets.
 
+---
+
 ###  Course Texts
 - **Required Texts**: None
 - **Readings**: Will be provided weekly on the course site.
