@@ -7,18 +7,6 @@ nav_order: 2
 
 Abbreviated Syllabus [Download full syllabus here](https://drive.google.com/file/d/1JN2sbvt8tCKrmqJ2T0SUtKgbs9WN-_yk/view?usp=sharing)
 
-
-### Course Information
-- **Meeting Pattern**: M-F 9:45am-11:15am
-- **Instructional Format**: Options: In-person, Remote Synchronous
-- **Classroom or Location**: Carolina Hall 220 or [Zoom Link](https://unc.zoom.us/j/98590343821)
-
-### Instructor Information
-- **Name**: Julia Cardwell
-- **Office**: Coates Building 201-B or [Zoom](https://unc.zoom.us/j/2724389665)
-- **Office Hours**: T, TH  11:45am-1:30pm, other days by appointment
-- **Email**: [jmcard@email.unc.edu](mailto:jmcard@email.unc.edu)
-
 ### Course Description
 This course introduces students to data science with a focus on spatial (geographic) data. We will explore various facets of data science practice including data collection, management and integration, descriptive modeling, exploratory spatial data analysis, and communication via visualization and mapping using real-world datasets.
 
