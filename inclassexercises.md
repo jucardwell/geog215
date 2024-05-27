@@ -42,7 +42,7 @@ Exercise 12: [Filter and Aggregate](https://drive.google.com/uc?export=download&
 
 Exercise 13: [Join](https://drive.google.com/uc?export=download&id=1RjkNZgn0yHoJgCHHW587v6OpbZAe-iKW)
 
-Exercise 14: [Make Spatial](https://drive.google.com/drive/folders/1XAZFGVmbkISfcl1ChHFLqF-RvESQkcLN?usp=sharing)
+Exercise 14: [Make Spatial](https://drive.google.com/drive/folders/14V3ClG0aJvo1svZ6CpG7RsQsaMGPO80a?usp=sharing)
 
 ## 06-03-2024
 Exercise 15: [ESDA](https://drive.google.com/drive/folders/1NsHOi4-i1zO5CjQzzjnZgxM7AcQpk4Z0?usp=sharing)
