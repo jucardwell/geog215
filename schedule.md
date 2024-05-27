@@ -16,8 +16,8 @@ nav_order: 3
 | 24-May | 2    | 8   | Mapping                                    |            |  [Tmap in a Nutshell](https://r-tmap.github.io/tmap-book/nutshell.html), Introduction to Tmap(in helpful docs)               |
 | 28-May | 3    | 9   | Mapping In Class Activity                  |            |                 |            |
 | 29-May | 3    | 10  | Data Wrangling                             |HW 2       |   [Data Manipulation with dplyr](https://cengel.github.io/R-data-wrangling/dplyr.html)              |
-| 30-May | 3    | 11  | **Exam 1**, Introduction to Project, Asking Spatial Questions |            |                 |
-| 31-May | 3    | 12  | Filter and Aggregate, Join                 |Project Task 1 |  [Data Wrangling in R](https://bookdown.org/jgscott/DSGI/data-wrangling.html)              |
+| 30-May | 3    | 11  | **Exam 1**, Introduction to Project |            |                 |
+| 31-May | 3    | 12  | Asking Spatial Questions,  Filter and Aggregate, Join                 |Project Task 1 |  [Data Wrangling in R](https://bookdown.org/jgscott/DSGI/data-wrangling.html)              |
 | 3-Jun  | 4    | 13  | Exploratory Spatial Data Analysis          |            |                 |
 | 4-Jun  | 4    | 14  | Computational Thinking, Control Structures |HW 3       |  [Control Structures](https://bookdown.org/rdpeng/RProgDA/control-structures.html)               |
 | 5-Jun  | 4    | 15  | In Class Activity- Control Structures      |Project Task 2 |                 |
