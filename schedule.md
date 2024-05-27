@@ -4,11 +4,6 @@ layout: default
 nav_order: 3
 ---
 
----
-title: Schedule and Readings
-layout: default
-nav_order: 3
----
 | Date   | Week | Day | Topic                                      | Due        | Readings        |
 |--------|------|-----|--------------------------------------------|------------|-----------------|
 | 15-May | 1    | 1   | Introduction to course                     |            |                 |
