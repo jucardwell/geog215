@@ -66,7 +66,7 @@ Make sure each line of code has a descriptive comment.
     and classifies the trees by the “COMP\_” column (which represents
     the type of trees). You should get an error. Sometimes data from the web
     contains geometry errors which prevent tmap from mapping them. Add this command
-    `%>% st_make_valid` to your tree read in command to fix any invalid geometries. 
+    `%>%st_make_valid()` to your tree read in command to fix any invalid geometries. 
 
 3. Write a command to make and print a summary table that sums the amount of acres
    of any tree type in Carrboro. Hint: you will use the `summarise` command. 
