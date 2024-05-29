@@ -31,8 +31,8 @@ recreate the data
 ### Descriptive Statistics 
 
 Create a Descriptive Statistics table with number of observations, number of No Data (NA) observations, 
-minimum, maximum, mean, and standard deviation for your variable of interest. Provide a 2-4 sentence paragraph 
-that includes an explanation of your data.
+minimum, maximum, mean, and standard deviation for your variable of interest. You should use the [kable](https://rmarkdown.rstudio.com/lesson-7.html) 
+package to make the table. Provide a 2-4 sentence paragraph that includes an explanation of your data.
 
 ### Plot
 
