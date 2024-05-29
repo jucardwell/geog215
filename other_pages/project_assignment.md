@@ -17,6 +17,9 @@ div.blue { background-color:#ffdad2; padding: 10px 10px 3px 10px;}
 For your final project, you will be presenting the results from a
 spatial data analysis in a reproducible format. This analysis will build on skills you have already executed in in-class activities and assignments, as well as the project tasks. 
 
+Your spatial data analysis will explore a variable from the Census Bureau (I suggest using the American Community Survey) at a selected enumeration
+unit (block group, tract, county, etc.) for a selected geographical area. You will execute Exploratory Spatial Data Analysis on the selected variable, and develop a research question around the variable that will likely require you to obtain additional data (either another variable from the Census Bureau or an additional spatial dataset). 
+
 ------------------------------------------------------------------------
 
 ### Required Components
@@ -26,7 +29,7 @@ spatial data analysis in a reproducible format. This analysis will build on skil
 -   Create at least two different maps (which must be in interactive mode)
 -   Execute spatial clustering analysis (this should be Moran’s I and LISA)
 -   Develop one research question, with appropriate table(s),
-    graphic(s), or statistical test results to answer it
+    graphic(s), or statistical test results to analyze it
 
 ------------------------------------------------------------------------
 
