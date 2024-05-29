@@ -69,7 +69,7 @@ Make sure each line of code has a descriptive comment.
     `%>%st_make_valid()` to your tree read in command to fix any invalid geometries. 
 
 3. Write a command to make and print a summary table that sums the amount of acres
-   of any tree type in Carrboro. Hint: you will use the `summarise` command. 
+   of any tree type in Carrboro. Hint: you will use the `summarise()` command. 
 
 ### Format your .Rmd File
 1. Review the .Rmd help document. Format your .Rmd so that messages and warnings
