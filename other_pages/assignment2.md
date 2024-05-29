@@ -41,8 +41,8 @@ Make sure each line of code has a descriptive comment.
     file named “Chapel\_Hill\_Transit\_Bus\_Stops.shp” and assign it to
     an object called `bus_stops`, the file named
     “Weekday\_Bus\_Routes\_2022.shp” and assign it to an object called
-    `bus_routes`, and the file named “ParksNSchools.shp” and assign it
-    to an object called `carrboro_parks`.
+    `bus_routes`, and the file named “TreeCover2017.shp” and assign it
+    to an object called `carrboro_trees`.
 
 3.  Using the console, check the coordinate reference systems of all the
     layers using the `st_crs()` command. If all of the layers are not in
