@@ -56,10 +56,11 @@ Remember that each line of code needs a descriptive comment.
 3.  Create a descriptive statistics table (with the `kable` package) and non-map graphic for the enrollment column. Make sure this graphic has a title
    and all other appropriate formatting. 
 
-**Hint: You will probably get an error when trying to make the descriptive 
+**Hint: You might get an error when trying to make the descriptive 
 statistics table. You will need to figure out what Data Cleaning step you
 still have to do**
 
+ 
 
 ### Map
 1. Add a **third-level heading** named "Map". Create a chunk below
