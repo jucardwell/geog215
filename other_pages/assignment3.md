@@ -24,7 +24,7 @@ Remember that each line of code needs a descriptive comment.
 
 ### Create a new R Markdown document
 
-1.  Save your .RMD file using the following naming convention:
+1.  Save your .Rmd file using the following naming convention:
 
 -   **Lastname**\_GEOG215\_Assg**3**.Rmd
 -   For example, Julia’s file would be: **Cardwell\_GEOG215\_Assg3.Rmd**
@@ -51,9 +51,9 @@ Remember that each line of code needs a descriptive comment.
 
 1. Add a **third-level heading** named "Execute EDSA". Create a chunk below
    
-2.  Create one descriptive statistics table for the enrollment column. 
+2.  Create one descriptive statistics table for the enrollment column. Figure out how to use the `kable` package to make a nice looking table. 
 
-3.  Create one non-map graphic for any of the descriptive columns. Make sure this graphic has a title
+3.  Create one non-map graphic for any of the columns. Make sure this graphic has a title
    and all other appropriate formatting. 
 
 **Hint: You will probably get an error when trying to make the descriptive 
@@ -64,7 +64,7 @@ still have to do**
 ### Map
 1. Add a **third-level heading** named "Map". Create a chunk below
 
-2. Create two interactive maps, one showing the enrollment column and one showing the degree column
+2. Create two interactive maps, one showing the enrollment column and one showing the degree column. Figure out how to display these maps in sync. 
 
 
 ### Format your .Rmd File
