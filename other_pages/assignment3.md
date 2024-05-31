@@ -51,9 +51,9 @@ Remember that each line of code needs a descriptive comment.
 
 1. Add a **third-level heading** named "Execute EDSA". Create a chunk below
    
-2.  Create one descriptive statistics table for the enrollment column. Figure out how to use the `kable` package to make a nice looking table. 
+2.  Create one descriptive statistics table for one of the "degree" column. Figure out how to use the `kable` package to make a nice looking table. 
 
-3.  Create one non-map graphic for any of the columns. Make sure this graphic has a title
+3.  Create a descriptive statistics table (with the `kable` package) and non-map graphic for the enrollment column. Make sure this graphic has a title
    and all other appropriate formatting. 
 
 **Hint: You will probably get an error when trying to make the descriptive 
