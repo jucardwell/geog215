@@ -20,8 +20,8 @@ nav_order: 3
 | 31-May | 3    | 12  | Asking Spatial Questions,  Filter and Aggregate, Join                 |Project Task 1 |  [Data Wrangling in R](https://bookdown.org/jgscott/DSGI/data-wrangling.html)              |
 | 3-Jun  | 4    | 13  | Exploratory Spatial Data Analysis          |            |                 |
 | 4-Jun  | 4    | 14  | Computational Thinking, Control Structures |HW 3       |  [Control Structures](https://bookdown.org/rdpeng/RProgDA/control-structures.html)               |
-| 5-Jun  | 4    | 15  | In Class Activity- Control Structures      |Project Task 2 |                 |
-| 6-Jun  | 4    | 16  | Functions                                  |            | [Functions](https://r4ds.hadley.nz/functions.html)                |
+| 5-Jun  | 4    | 16  | Functions                                  |Project Task 2            | [Functions](https://r4ds.hadley.nz/functions.html)                |
+| 6-Jun  | 4    | 15  | In Class Activity- Control Structures + Functions      | |                 |
 | 7-Jun  | 4    | 17  | **Exam 2**                                     |HW 4       |                 |
 | 10-Jun | 5    | 18  | Geographic Fundamentals                    |            |                 |
 | 11-Jun | 5    | 19  | Spatial Data Analysis                      |Project Task 3 |  [GIS Analysis Toolkit](https://bookdown.org/michael_bcalles/gis-crash-course-in-r/toolkit.html)               |
