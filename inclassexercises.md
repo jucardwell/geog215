@@ -53,7 +53,7 @@ Exercise 16: [Conditionals and Loops](https://drive.google.com/uc?export=downloa
 ## 06-05-2024
 Exercise 17: [Functions](https://drive.google.com/uc?export=download&id=1UUJIuuULKxgnVZjr9Uq_dP4n3sFOtumr)
 
-## 06-07-2024
+## 06-06-2024
 Exercise 18: [MAUP](https://drive.google.com/drive/folders/1y3yKBDihtcZ3PUFtadPfBqnW92WFRQRo?usp=drive_link)
 
 ## 06-10-2024
