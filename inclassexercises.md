@@ -57,19 +57,20 @@ Exercise 17: [Functions](https://drive.google.com/uc?export=download&id=1UUJIuuU
 Exercise 18: [MAUP](https://drive.google.com/drive/folders/1y3yKBDihtcZ3PUFtadPfBqnW92WFRQRo?usp=drive_link)
 
 ## 06-10-2024
-Exercise 19: [Neighbors](https://drive.google.com/drive/folders/1O9VH2mzYKYKzoSDRNWTAXQgoOHLTmKfA?usp=drive_link)
+Exercise 19: [GIS](https://drive.google.com/drive/folders/1nIpetu8cbQtvRMXlatt-UF_ocLJ-Ucp7?usp=drive_link)
 
 ## 06-11-2024
-Exercise 20: [Clustering](https://drive.google.com/drive/folders/1l3ezpntHRYfkm6km57nz-YA7891jXJbs?usp=drive_link)
+Exercise 20: [GIS Analysis](https://drive.google.com/uc?export=download&id=1UUJIuuULKxgnVZjr9Uq_dP4n3sFOtumr)
+
+## 06-10-2024
+Exercise 21: [Neighbors](https://drive.google.com/drive/folders/1O9VH2mzYKYKzoSDRNWTAXQgoOHLTmKfA?usp=drive_link)
+
+## 06-11-2024
+Exercise 22: [Clustering](https://drive.google.com/drive/folders/1l3ezpntHRYfkm6km57nz-YA7891jXJbs?usp=drive_link)
 
 ## 06-12-2024
-Exercise 21: [Bivariate Relationships](https://drive.google.com/drive/folders/1kHWkNzBfsgebm_CXMn0BUIg6jwtRvbsL?usp=drive_link)
+Exercise 23: [Bivariate Relationships](https://drive.google.com/drive/folders/1kHWkNzBfsgebm_CXMn0BUIg6jwtRvbsL?usp=drive_link)
 
 ## 06-13-2024
-Exercise 22: [Spatial Regressions](https://drive.google.com/drive/folders/1UrCzpmIG__N8auTltv5nxYlQ3dw_66po?usp=drive_link)
+Exercise 24: [Spatial Regressions](https://drive.google.com/drive/folders/1UrCzpmIG__N8auTltv5nxYlQ3dw_66po?usp=drive_link)
 
-## 06-14-2024
-Exercise 23: [GIS](https://drive.google.com/drive/folders/1nIpetu8cbQtvRMXlatt-UF_ocLJ-Ucp7?usp=drive_link)
-
-## 06-17-2024
-Exercise 24: [GIS Analysis](https://drive.google.com/uc?export=download&id=1UUJIuuULKxgnVZjr9Uq_dP4n3sFOtumr)
