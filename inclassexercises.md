@@ -48,7 +48,7 @@ Exercise 14: [Make Spatial](https://drive.google.com/drive/folders/14V3ClG0aJvo1
 Exercise 15: [ESDA](https://drive.google.com/drive/folders/1NsHOi4-i1zO5CjQzzjnZgxM7AcQpk4Z0?usp=sharing)
 
 ## 06-04-2024
-Exercise 16: [Conditionals and Loops](https://drive.google.com/file/d/1yN1FVX0fQ8tW3qx8Hr6wJqu9q-JD8MHg/view?usp=drive_link)
+Exercise 16: [Conditionals and Loops](https://drive.google.com/uc?export=download&id=1yN1FVX0fQ8tW3qx8Hr6wJqu9q-JD8MHg)
 
 ## 06-05-2024
 Exercise 17: [Functions](https://drive.google.com/uc?export=download&id=1UUJIuuULKxgnVZjr9Uq_dP4n3sFOtumr)
