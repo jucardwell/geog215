@@ -25,18 +25,20 @@ nav_order: 5
 
 [Class 14 (06/04/2024): Computational Thinking and Control Structures](https://docs.google.com/presentation/d/1D0z4OizUY0KAY0RSk7Vg-mH5yCxHew7L/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
 
-[Class 15 (06/05/2024): Functions](https://docs.google.com/presentation/d/1gJAwDuoLykFwKlFqYWgKJZDcZQK6wFxB/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
+[Class 14 (06/05/2024): Functions](https://docs.google.com/presentation/d/1gJAwDuoLykFwKlFqYWgKJZDcZQK6wFxB/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
 
-[Class 17 (06/07/2024): Geographic Fundamentals](https://docs.google.com/presentation/d/1w71DR_IVyw2y4NdhLsI5lHi6HJgq16Da/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
+[Class 16 (06/06/2024): Geographic Fundamentals](https://docs.google.com/presentation/d/1w71DR_IVyw2y4NdhLsI5lHi6HJgq16Da/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
 
-[Class 18 (06/10/2024): Calculating Distance, Spatial Neighbors](https://docs.google.com/presentation/d/1BhFkSnhz4_c1Oh4XCbTrusH0FUzrVMeX/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
+[Class 18 (06/10/2024): GIS Analysis Crash Course](https://docs.google.com/presentation/d/1_NiMxajsGHGqRo87FxLF1iBkiuUv1wlb/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
 
-[Class 19 (06/11/2024): Spatial Clustering](https://docs.google.com/presentation/d/1dtrHT1PVAqnrLr_rE_B4D7aPJf1TJHlg/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
+[Class 20 (06/12/2024): Calculating Distance, Spatial Neighbors](https://docs.google.com/presentation/d/1BhFkSnhz4_c1Oh4XCbTrusH0FUzrVMeX/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
 
-[Class 20 (06/12/2024): Bivariate Relationships](https://docs.google.com/presentation/d/1AVA-ufYnwLvI9Fv1SijrQHAb1xqorNlR/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
+[Class 21 (06/13/2024): Spatial Clustering](https://docs.google.com/presentation/d/1dtrHT1PVAqnrLr_rE_B4D7aPJf1TJHlg/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
 
-[Class 21 (06/13/2024): Spatial Regressions](https://docs.google.com/presentation/d/14kovrqa_8x-zZQ8edZisry4zKqh2HLdE/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
+[Class 22 (06/14/2024): Bivariate Relationships](https://docs.google.com/presentation/d/1AVA-ufYnwLvI9Fv1SijrQHAb1xqorNlR/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
 
-[Class 22 (06/14/2024): GIS Analysis Crash Course](https://docs.google.com/presentation/d/1_NiMxajsGHGqRo87FxLF1iBkiuUv1wlb/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
+[Class 23 (06/17/2024): Spatial Regressions](https://docs.google.com/presentation/d/14kovrqa_8x-zZQ8edZisry4zKqh2HLdE/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
+
+
 
 
