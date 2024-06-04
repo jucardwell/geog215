@@ -25,7 +25,7 @@ nav_order: 5
 
 [Class 14 (06/04/2024): Computational Thinking and Control Structures](https://docs.google.com/presentation/d/1D0z4OizUY0KAY0RSk7Vg-mH5yCxHew7L/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
 
-[Class 14 (06/05/2024): Functions](https://docs.google.com/presentation/d/1gJAwDuoLykFwKlFqYWgKJZDcZQK6wFxB/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
+[Class 14 (06/04/2024): Functions](https://docs.google.com/presentation/d/1gJAwDuoLykFwKlFqYWgKJZDcZQK6wFxB/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
 
 [Class 16 (06/06/2024): Geographic Fundamentals](https://docs.google.com/presentation/d/1w71DR_IVyw2y4NdhLsI5lHi6HJgq16Da/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
 
