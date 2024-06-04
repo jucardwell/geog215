@@ -15,4 +15,4 @@ has_toc: false
 | 2          | Mapping     | May 29, 5pm  |
 | 3          | Exploratory Data Analysis     | June 4, 5pm  |
 | 4          | Writing Functions     | June 7, 5pm  |
-| 5          | Spatial Analysis     | June 13, 5pm |
+| 5          | Spatial Analysis     | June 14, 5pm |
