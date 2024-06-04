@@ -23,11 +23,11 @@ nav_order: 3
 | 5-Jun  | 4    | 15  | In Class Activity- Control Structures + Functions      |Project Task 2 |                 |
 | 6-Jun  | 4    | 16  | Geographic Fundamentals                    |            |                 |
 | 7-Jun  | 4    | 17  | **Exam 2**                                     |HW 4       |                 |
-| 10-Jun | 5    | 18  | Spatial Data Analysis                      |Project Task 3 |  [GIS Analysis Toolkit](https://bookdown.org/michael_bcalles/gis-crash-course-in-r/toolkit.html)               |
-| 11-Jun | 5    | 19  | Calculating Distance Spatial Neighbors     |            |                 |
-| 12-Jun | 5    | 20  | Spatial Clustering                         |HW 5       | [Global Spatial Autocorrelation](https://geodacenter.github.io/workbook/5a_global_auto/lab5a.html), [Local Spatial Autocorrelation](https://geodacenter.github.io/workbook/6a_local_auto/lab6a.html)                |
-| 13-Jun | 5    | 21  | Bivariate Relationships                    |            |                 |
-| 14-Jun | 5    | 22  | Spatial Regressions                        |            | [Spatial Regressions](http://www.geo.hunter.cuny.edu/~ssun/R-Spatial/spregression.html)                |
-| 17-Jun | 6    | 23  | Catch-up/ Project Workday                  |            |                 |
+| 10-Jun | 5    | 18  | Spatial Data Analysis                      | |  [GIS Analysis Toolkit](https://bookdown.org/michael_bcalles/gis-crash-course-in-r/toolkit.html)               |
+| 11-Jun | 5    | 19  | In Class Activity -  GIS     | Project Task 3            |                 |
+| 12-Jun | 5    | 20  | Calculating Distance Spatial Neighbors     |            |                 |
+| 13-Jun | 5    | 21  | Spatial Clustering                         |       | [Global Spatial Autocorrelation](https://geodacenter.github.io/workbook/5a_global_auto/lab5a.html), [Local Spatial Autocorrelation](https://geodacenter.github.io/workbook/6a_local_auto/lab6a.html)                |
+| 14-Jun | 5    | 22  | Bivariate Relationships                    |HW 5              |                 |
+| 17-Jun | 5    | 23  | Spatial Regressions                        |            | [Spatial Regressions](http://www.geo.hunter.cuny.edu/~ssun/R-Spatial/spregression.html)                |
 | 18-Jun | 6    | 24  | Catch-up/ Project Workday                  |            |                 |
 | 21-Jun | 6    | 25  | **Exam Period, 8:00-11:00am**              |            |                 |
