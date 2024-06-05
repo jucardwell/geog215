@@ -51,7 +51,7 @@ Exercise 15: [ESDA](https://drive.google.com/drive/folders/1NsHOi4-i1zO5CjQzzjnZ
 Exercise 16: [Conditionals and Loops](https://drive.google.com/uc?export=download&id=1yN1FVX0fQ8tW3qx8Hr6wJqu9q-JD8MHg)
 
 ## 06-05-2024
-Exercise 17: [Functions](https://drive.google.com/uc?export=download&id=1UUJIuuULKxgnVZjr9Uq_dP4n3sFOtumr)
+Exercise 17: [Functions](https://drive.google.com/drive/folders/18FiwCNhrkU_vK70YRS7AL4GUyfFPG0ni?usp=drive_link)
 
 ## 06-06-2024
 Exercise 18: [MAUP](https://drive.google.com/drive/folders/1y3yKBDihtcZ3PUFtadPfBqnW92WFRQRo?usp=drive_link)
