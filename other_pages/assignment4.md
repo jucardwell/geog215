@@ -52,6 +52,15 @@ Remember that each line of code needs a descriptive comment.
     in the quantile style
   - moves the legend to the top of the map
 
+**Hint for making your function: For making a function relating to tmap, you will need to put your variable in quotes when calling the function and you do not need to use {{}} when utilizing the variable within the function. For instance:** 
+
+```
+map_function <- function(data, variable){
+tm_shape(data) + tm_polygon(variable)
+}
+
+map_function(sample_dataset, "sample_variable")
+```
 
 ### Create Maps
 
