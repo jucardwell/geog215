@@ -63,7 +63,7 @@ Exercise 19: [GIS](https://drive.google.com/drive/folders/1nIpetu8cbQtvRMXlatt-U
 Exercise 20: [GIS Analysis](https://docs.google.com/document/d/1yzbnmT2J4AKY10525pUmGdTsQMtu6KwW/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
 
 ## 06-10-2024
-Exercise 21: [Neighbors](https://drive.google.com/drive/folders/1O9VH2mzYKYKzoSDRNWTAXQgoOHLTmKfA?usp=drive_link)
+Exercise 21: [Neighbors](https://drive.google.com/drive/folders/1r-E_wZd6yOvJZ3aQJZBd1X4NOV7ETTSP?usp=drive_link)
 
 ## 06-11-2024
 Exercise 22: [Clustering](https://drive.google.com/drive/folders/1l3ezpntHRYfkm6km57nz-YA7891jXJbs?usp=drive_link)
