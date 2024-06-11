@@ -62,15 +62,15 @@ Exercise 19: [GIS](https://drive.google.com/drive/folders/1nIpetu8cbQtvRMXlatt-U
 ## 06-11-2024
 Exercise 20: [GIS Analysis](https://docs.google.com/document/d/1yzbnmT2J4AKY10525pUmGdTsQMtu6KwW/edit?usp=drive_link&ouid=101338019870957132383&rtpof=true&sd=true)
 
-## 06-10-2024
+## 06-12-2024
 Exercise 21: [Neighbors](https://drive.google.com/drive/folders/1r-E_wZd6yOvJZ3aQJZBd1X4NOV7ETTSP?usp=drive_link)
 
-## 06-11-2024
+## 06-13-2024
 Exercise 22: [Clustering](https://drive.google.com/drive/folders/1l3ezpntHRYfkm6km57nz-YA7891jXJbs?usp=drive_link)
 
-## 06-12-2024
+## 06-14-2024
 Exercise 23: [Bivariate Relationships](https://drive.google.com/drive/folders/1kHWkNzBfsgebm_CXMn0BUIg6jwtRvbsL?usp=drive_link)
 
-## 06-13-2024
+## 06-17-2024
 Exercise 24: [Spatial Regressions](https://drive.google.com/drive/folders/1UrCzpmIG__N8auTltv5nxYlQ3dw_66po?usp=drive_link)
 
