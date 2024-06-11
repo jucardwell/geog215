@@ -66,7 +66,7 @@ Exercise 20: [GIS Analysis](https://docs.google.com/document/d/1yzbnmT2J4AKY1052
 Exercise 21: [Neighbors](https://drive.google.com/drive/folders/1r-E_wZd6yOvJZ3aQJZBd1X4NOV7ETTSP?usp=drive_link)
 
 ## 06-13-2024
-Exercise 22: [Clustering](https://drive.google.com/drive/folders/1l3ezpntHRYfkm6km57nz-YA7891jXJbs?usp=drive_link)
+Exercise 22: [Clustering](https://drive.google.com/drive/folders/17GPXOc8HxVc2Qt2mLRmOO1KqYRkUFYbP?usp=sharing)
 
 ## 06-14-2024
 Exercise 23: [Bivariate Relationships](https://drive.google.com/drive/folders/1kHWkNzBfsgebm_CXMn0BUIg6jwtRvbsL?usp=drive_link)
